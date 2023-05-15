@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B4money
 - 👀 I’m interested in full stack programing.
-- 🌱 I’m currently learning how to build a website.
+- 🌱 I’m currently designing new websites.
 - 💞️ I’m looking to collaborate on pair programming projects.
 - 📫 How to reach me https://whattechisbest.blogspot.com/
 <!---
