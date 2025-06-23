@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B4money
-- 👀 I’m interested in full stack programing.
-- 🌱 I’m currently designing new websites.
-- 💞️ I’m looking to collaborate on pair programming projects.
+- 👀 I’m interested in AI programing and designing new AI models and tools.
+- 🌱 I’m currently designing ways to Integrate AI into applications and websites.
+- 💞️ I’m looking to learn AI intergration methods.
 - 📫 How to reach me https://whattechisbest.blogspot.com/
 <!---
 B4money/B4money is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
